@@ -12,17 +12,19 @@ return (
     <NavTabs currentPage={currentPage} setCurrentPage={setCurrentPage} />
 
 <main>
-<Portfolio>
+
 <a href="https://byte-bridge-044c48f5039e.herokuapp.com/" >
   <h1>Portfolio</h1>
 </a>
 <h1>Byte-Bridge</h1>
 <a href img = "./components/images/byte-bridge.jpg" alt="byte-bridge">
 </a>
-</Portfolio>
+
 </main>
 </div>
 );
+
 };
+
 
 export default Portfolio;
