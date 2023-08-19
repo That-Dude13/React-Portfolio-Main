@@ -21,11 +21,24 @@ export default function App() {
             floating
             size="lg"
             className='text-dark m-1'
-            href='#!'
+            href='https://stackoverflow.com/users/22415886/that-dude713'
             role='button'
           >
             <MDBIcon fab className='fa-stack-overflow' />
           </MDBBtn>
+
+          <MDBBtn
+            rippleColor="dark"
+            color='link'
+            floating
+            size="lg"
+            className='text-dark m-1'
+            href='https://www.instagram.com/that.dude713/'
+            role='button'
+          >
+            <MDBIcon fab className='fa-instagram' />
+          </MDBBtn>
+          
 
         
 
