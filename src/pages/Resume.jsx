@@ -58,7 +58,7 @@ const Resume = () => {
             floating
             size="lg"
             className='text-dark m-1'
-            href='#!'
+            href='https://github.com/That-Dude13'
             role='button'
           >
             <MDBIcon fab className='fa-github' />
