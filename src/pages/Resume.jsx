@@ -46,7 +46,7 @@ const Resume = () => {
             floating
             size="lg"
             className='text-dark m-1'
-            href='#!'
+            href='https://www.linkedin.com/in/kelvin-easiley-jr-58a34712/'
             role='button'
           >
             <MDBIcon fab className='fa-linkedin' />
